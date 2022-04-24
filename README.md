@@ -6,3 +6,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vyster&show_icons=true" alt="vyster" />
 
+**Rohit Jain**
+
+- [Profile](https://github.com/rohit19060 "Rohit jain")
+- [Email](mailto:rohitjain19060@gmail.com?subject=Hi% "Hi!")
+- [Website](https://kingtechnologies.in "Welcome")
